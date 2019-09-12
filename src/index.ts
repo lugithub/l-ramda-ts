@@ -6,7 +6,7 @@ interface User {
 }
 
 const user = {
-  name: "foo1",
+  name: "foo2",
   age: 1
 };
 const name = prop("name")(user);
